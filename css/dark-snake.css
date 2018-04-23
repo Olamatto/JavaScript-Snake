@@ -58,7 +58,7 @@ a.snake-link:hover {
     left:50%;
     margin-top:-40px;
     margin-left:-150px;
-    display:none;
+    display:none:
     background-color:#3E2E44;
     color:black;
 }
